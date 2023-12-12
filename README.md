@@ -1,2 +1,2 @@
 # projects
-Author - Deepak Verma
+Author - deepak verma
